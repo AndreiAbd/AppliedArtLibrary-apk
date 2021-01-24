@@ -5,8 +5,8 @@
 ============================================================
 APK NAME                          Applied Art Library
 APK TYPE                          Library
-APK LANGUAGE	                  java
-YEAR OF                           2020
+APK LANGUAGE	                    java
+YEAR OF                           2021
 WRITTEN BY                        Andrei Abd
 CODER NAME                        X
 WORKING DIRECTORY                 com.appliedartlibrary
@@ -16,7 +16,7 @@ PRODUCT VERSION                   1.0
 ============================================================
                        [ DESCRIPCTION ]
 ============================================================
-[*] Fine Art Library:
+[*] Applied Art Library:
 ============================================================
 -The electronic library specialized in references, research 
  and books on applied arts in general.
